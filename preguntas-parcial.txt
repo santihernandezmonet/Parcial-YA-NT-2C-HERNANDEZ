@@ -1,0 +1,12 @@
+1. javascript es un lenguaje de programacion orientado a objetos utilizado comunmente para
+progrmar en ambito web. 
+
+2. un array es una coleccion de elementos guardados en posiciones de forma ascendente,
+estos cuentan con una serie de metodos para trabajar sobre sus elementos.
+
+3. El metodo DRY, "don´t repeat yourself". Es una filosofia de trabajo que busca reducir la 
+duplicación de código. Segun el mismo toda pieza de informacion nunca deberia ser duplicada
+ya que esto incrementa la dificultad en los cambios y su posterior evolucion.
+
+4. Se recomienda declarar las variables con la palabra LET, se introduce a partir del ES6
+en el año 2015. 
